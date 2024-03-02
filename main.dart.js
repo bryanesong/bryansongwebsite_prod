@@ -37212,7 +37212,7 @@ $1(a){this.a.aj().$0()
 this.b.fJ()},
 $S:6}
 A.C1.prototype={
-P(a){return new A.rF(B.DG,"Flutter Demo",A.ac1(null,A.ahZ(B.X,B.Dm),!0),null)}}
+P(a){return new A.rF(B.DG,"Bryan Song",A.ac1(null,A.ahZ(B.X,B.Dm),!0),null)}}
 A.rT.prototype={
 am(){return new A.HO(A.a([B.F5,B.vF,B.yx],t.E),B.m)}}
 A.HO.prototype={
@@ -37277,12 +37277,12 @@ A.yI.prototype={
 P(a){var s=null,r=t.w,q=A.bC(a,s,r).w
 r=A.bC(a,s,r).w.a.b*0.2
 q=q.a.a*0.36
-return A.mu(A.dN(B.Q,B.LT,s,s,s,s,new A.aJ(q,r,q,r),s),s,s)}}
+return A.mu(A.dN(B.Q,B.LP,s,s,s,s,new A.aJ(q,r,q,r),s),s,s)}}
 A.zN.prototype={
 P(a){var s=null,r="CourierPrime",q=t.w
 A.bC(a,s,q).toString
 q=A.bC(a,s,q).w.a.b*0.02
-return A.mu(A.pU(A.a([B.LQ,new A.cV(new A.aJ(q,q,q,q),s,s),A.uW("bryanesong@gmail.com",s,s,A.fx(s,s,s,s,s,s,s,s,r,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),new A.cV(new A.aJ(q,q,q,q),s,s),A.uW("https://www.linkedin.com/in/bryanesong/",s,s,A.fx(s,s,s,s,s,s,s,s,r,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s))],t.E),B.aY,B.bM,B.b6),s,s)}}
+return A.mu(A.pU(A.a([B.LR,new A.cV(new A.aJ(q,q,q,q),s,s),A.uW("bryanesong@gmail.com",s,s,A.fx(s,s,s,s,s,s,s,s,r,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),new A.cV(new A.aJ(q,q,q,q),s,s),A.uW("https://www.linkedin.com/in/bryanesong/",s,s,A.fx(s,s,s,s,s,s,s,s,r,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s))],t.E),B.aY,B.bM,B.b6),s,s)}}
 A.Y_.prototype={
 gD(){var s=this,r=s.d
 return r==null?s.d=B.d.a8(s.a,s.b,s.c):r},
@@ -66594,12 +66594,12 @@ B.k8=A.a(s([0,0,65490,12287,65535,34815,65534,18431]),t.t)
 B.k9=A.a(s([0,0,32776,33792,1,10240,0,0]),t.t)
 B.B4=A.a(s(["click","scroll"]),t.s)
 B.eo=new A.k(!0,null,null,"CourierPrime",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.LR=new A.eo("Projects",null,B.eo,null,null,null,null)
-B.Hv=new A.o0(B.LR,null)
-B.LP=new A.eo("About Me",null,B.eo,null,null,null,null)
-B.Hx=new A.o0(B.LP,null)
-B.LS=new A.eo("Contact",null,B.eo,null,null,null,null)
-B.Hw=new A.o0(B.LS,null)
+B.LS=new A.eo("Projects",null,B.eo,null,null,null,null)
+B.Hv=new A.o0(B.LS,null)
+B.LQ=new A.eo("About Me",null,B.eo,null,null,null,null)
+B.Hx=new A.o0(B.LQ,null)
+B.LT=new A.eo("Contact",null,B.eo,null,null,null,null)
+B.Hw=new A.o0(B.LT,null)
 B.dD=A.a(s([B.Hv,B.Hx,B.Hw]),t.E)
 B.B6=A.a(s([0,0,32754,11263,65534,34815,65534,18431]),t.t)
 B.B9=A.a(s([]),t.QP)
@@ -68197,13 +68197,13 @@ B.KX=new A.k(!0,B.i,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.KP=new A.k(!0,B.i,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"whiteMountainView labelMedium",null,null,null,null)
 B.Kq=new A.k(!0,B.i,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"whiteMountainView labelSmall",null,null,null,null)
 B.LO=new A.cD(B.K9,B.Lr,B.L6,B.IE,B.L_,B.K3,B.Lw,B.Je,B.JJ,B.KT,B.Iv,B.L8,B.KX,B.KP,B.Kq)
+B.LP=new A.eo("I am an ambitious and results-driven Software Engineer based in Seattle with a backend focused  background in optimizing site-reliability measurements and designing efficient APIs. Demonstrated expertise in reducing automation runtimes and maintaining internal tools. Other interests include street photography and riding motorcycles. \n\n This website was built in Flutter, by me, of course.",null,B.eo,null,null,null,null)
 B.hV=new A.eo("Coming Soon!",null,null,null,null,null,null)
 B.hW=new A.eo("OK",null,null,null,null,null,null)
 B.hX=new A.eo("Cancel",null,null,null,null,null,null)
 B.J1=new A.k(!0,null,null,"CourierPrime",null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.LQ=new A.eo("Contact:",null,B.J1,null,null,null,null)
+B.LR=new A.eo("Contact:",null,B.J1,null,null,null,null)
 B.hY=new A.eo("More pictures to be uploaded soon.",null,null,null,null,null,null)
-B.LT=new A.eo("I am an ambitious and results-driven Software Engineer based in Seattle with a backend focused  background in optimizing site-reliability measurements and designing efficient APIs. Demonstrated expertise in reducing automation runtimes and maintaining internal tools. Other interests include street photography and riding motorcycles.",null,B.eo,null,null,null,null)
 B.Og=new A.Z2(0,"system")
 B.LU=new A.v9(null)
 B.ep=new A.EL(0,"clamp")
